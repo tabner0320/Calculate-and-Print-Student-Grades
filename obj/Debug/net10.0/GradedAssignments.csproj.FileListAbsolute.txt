@@ -1,0 +1,14 @@
+C:\Users\Theo\GradedAssignments\bin\Debug\net10.0\GradedAssignments.exe
+C:\Users\Theo\GradedAssignments\bin\Debug\net10.0\GradedAssignments.deps.json
+C:\Users\Theo\GradedAssignments\bin\Debug\net10.0\GradedAssignments.runtimeconfig.json
+C:\Users\Theo\GradedAssignments\bin\Debug\net10.0\GradedAssignments.dll
+C:\Users\Theo\GradedAssignments\bin\Debug\net10.0\GradedAssignments.pdb
+C:\Users\Theo\GradedAssignments\obj\Debug\net10.0\GradedAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theo\GradedAssignments\obj\Debug\net10.0\GradedAssignments.AssemblyInfoInputs.cache
+C:\Users\Theo\GradedAssignments\obj\Debug\net10.0\GradedAssignments.AssemblyInfo.cs
+C:\Users\Theo\GradedAssignments\obj\Debug\net10.0\GradedAssignments.csproj.CoreCompileInputs.cache
+C:\Users\Theo\GradedAssignments\obj\Debug\net10.0\GradedAssignments.dll
+C:\Users\Theo\GradedAssignments\obj\Debug\net10.0\refint\GradedAssignments.dll
+C:\Users\Theo\GradedAssignments\obj\Debug\net10.0\GradedAssignments.pdb
+C:\Users\Theo\GradedAssignments\obj\Debug\net10.0\GradedAssignments.genruntimeconfig.cache
+C:\Users\Theo\GradedAssignments\obj\Debug\net10.0\ref\GradedAssignments.dll
