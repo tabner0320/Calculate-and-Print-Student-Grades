@@ -1,7 +1,7 @@
 Calculate-and-Print-Student-Grades per the grading system/ standard
 
 
-THis project is a C# console application that calculates the total sum of assignment scores for a group of students and displays the results.
+This project is a C# console application that calculates the total sum of assignment scores for a group of students and displays the results.
 
  Features
  Calculates total scores for multiple students (Sophia, Nicolas, Zahirah, and Jeong).
